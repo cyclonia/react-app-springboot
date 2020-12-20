@@ -1,15 +1,15 @@
 {
   "home": {
-    "title": "Welcome, Java Hipster!",
+    "title": "Welcome, 8Bot.in",
     "subtitle": "This is your homepage",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
-    "question": "If you have any question on JHipster:",
+    "question": "If you have any question for 8Bot.in",
     "link": {
-      "homepage": "JHipster homepage",
-      "stackoverflow": "JHipster on Stack Overflow",
-      "bugtracker": "JHipster bug tracker",
+      "homepage": "8Bot homepage",
+      "stackoverflow": "8Bot on Twitter",
+      "bugtracker": "J8Bot on Facebook",
       "chat": "JHipster public chat room",
       "follow": "follow @jhipster on Twitter"
     },
